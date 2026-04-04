@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class maps {
     public static void main(String[] args) {
         Map<String, Integer> map = new LinkedHashMap<>();
         map.put("Ramesh", 3);
