@@ -1,4 +1,4 @@
-package Streams;
+package Streams.Strings;
 
 import java.util.stream.Collectors;
 

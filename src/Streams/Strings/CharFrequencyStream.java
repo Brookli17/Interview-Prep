@@ -1,4 +1,4 @@
-package Streams;
+package Streams.Strings;
 
 import java.util.Map;
 import java.util.function.Function;
